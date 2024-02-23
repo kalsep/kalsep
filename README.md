@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kalsep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalsep" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pravinkalse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pravinkalse" height="30" width="40" /></a>
-<a href="https://medium.com/https://kalsep.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://kalsep.medium.com/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kalse_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kalse_manoj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kalsepravin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kalsepravin" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@kalse.manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kalse.manoj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalsep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalsep" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pravinkalse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pravinkalse" height="30" width="40" /></a>
+<a href="https://kalsep.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://kalsep.medium.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kalse_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kalse_manoj" height="30" width="40" /></a>
+<a href="https://leetcode.com/kalsepravin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kalsepravin" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kalse.manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kalse.manoj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
