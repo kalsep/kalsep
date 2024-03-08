@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalsep&show_icons=true&locale=en" alt="kalsep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalsep&" alt="kalsep" /></p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/kalsepravin/)
