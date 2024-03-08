@@ -41,6 +41,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kalsepravin?ext=activity)
 
-![](https://leetcard.jacoblin.cool/kalsep?ext=contest)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalsep&show_icons=true&locale=en&layout=compact" alt="kalsep" /></p>
