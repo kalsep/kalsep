@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalsep&" alt="kalsep" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kalsepravin?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kalsepravin?ext=activity)
