@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://kalsep.medium.com/](https://kalsep.medium.com/)
 
-- 💬 Ask me about **Machine Learning, Python Dev**
+- 💬 Ask me about **Data Engineering, Python,Machine Learning, Python Dev**
 
 - 📫 How to reach me **kalse.manoj@gmail.com**
 
